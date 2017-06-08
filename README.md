@@ -1,3 +1,3 @@
-#Triggered Discord Bot
+#Markov Chain Discord Bot
 
-def add_roles(self, member, *roles):
+Markov Bot is a python based Discord bot that takes the previous messages a user has sent in a channel and generates a similar message based on them.
